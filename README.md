@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently working on my development skill with my UI and UX designing passion 
-
+I am currently honing my coding skills while exploring my passion for web design and development. I enjoy working on both front-end and back-end projects, creating seamless user experiences and visually engaging interfaces. My interests include building responsive websites, experimenting with UI/UX design, and using tools like Figma, Framer, and VS Code to bring my ideas to life. I am constantly learning and coding to enhance my abilities in modern web technologies and design practices.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arhamjaved) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javedarham2@gmail.com) 
